@@ -1,6 +1,6 @@
 ![Banner](./banner.jpg)
 
-<h1 align="center">Hi 👋, I'm Zohaib Rustam</h1>
+<h1 align="center">Hi, I'm Zohaib Rustam</h1>
 <h3 align="center">Unity Developer | AR/VR Specialist | UI/UX Designer</h3>
 
 <p align="center">
